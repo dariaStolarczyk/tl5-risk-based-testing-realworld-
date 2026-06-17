@@ -29,10 +29,9 @@ Im Rahmen der Arbeit wurden insbesondere folgende Artefakte ergänzt bzw. angepa
 
 Die folgenden Dokumente ergänzen den Anhang der Arbeit:
 
-- [Testklassen und Risikomapping](docs/testklassen-risikomapping.pdf)
-- [Backend-Testbericht](docs/backend-testreport.pdf)
-- [Frontend-Vitest-Testbericht](docs/frontend-vitest-testreport.pdf)
-- [Playwright-E2E-Testbericht](docs/playwright-e2e-testreport.pdf)
+- [Testklassen und Risikomapping](docs/Mapping aller Testfunktionen auf Qualitätsrisiken.pdf)
+- [Backend-Testbericht](docs/Backend Test Report.pdf)
+- [Playwright-E2E-Testbericht](docs/Playright Test Report.pdf)
 
 ## Ausführung Frontend
 
