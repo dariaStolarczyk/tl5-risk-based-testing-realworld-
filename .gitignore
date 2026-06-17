@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Angular / frontend build output
+frontend/dist/
+frontend/.angular/
+frontend/coverage/
+frontend/playwright-report/
+frontend/test-results/
+
+# .NET / backend build output
+backend/**/bin/
+backend/**/obj/
+backend/**/TestResults/
+backend/**/coveragereport/
+
+# Local databases / runtime files
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+appsettings.Development.json
+secrets.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# PDFs generally ignored, but docs PDFs are allowed
+*.pdf
+!docs/**/*.pdf
