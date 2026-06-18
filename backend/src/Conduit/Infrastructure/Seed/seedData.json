@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "demo",
+      "email": "demo@conduit.local",
+      "password": "password123",
+      "bio": "Demo user for local testing.",
+      "image": "https://media.gettyimages.com/id/1757251759/de/foto/avatar-portraits-in-the-metaverse.jpg?s=2048x2048&w=gi&k=20&c=RpXCj_2lit0vIBk_jLEmffg2Ygnbs18RCk1pa6x16E8="
+    },
+    {
+      "username": "alice",
+      "email": "alice@conduit.local",
+      "password": "password123",
+      "bio": "Second demo user.",
+      "image": "https://media.gettyimages.com/id/1757252344/de/foto/avatar-portraits-in-the-metaverse.jpg?s=1024x1024&w=gi&k=20&c=xyo6yayqHcFcHJcnSBhvkeGhjrGgsHw-AlqeVI_Pf_M="
+    }
+  ],
+  "tags": [ "testing", "dotnet", "angular" ],
+  "articles": [
+    {
+      "title": "Risikobasiertes Testen in kleinen Fullstack-Projekten",
+      "description": "Warum nicht alles getestet werden muss.",
+      "body": "Dieser Beispielartikel erklärt, wie Risiken priorisiert und passenden Testebenen zugeordnet werden können.",
+      "slug": "risikobasiertes-testen-in-kleinen-fullstack-projekten",
+      "author": "demo",
+      "tags": [ "testing", "dotnet" ],
+      "comments": [
+        {
+          "author": "alice",
+          "body": "Sehr gutes Beispiel für die Teststrategie."
+        }
+      ],
+      "favoritedBy": [ "alice" ]
+    },
+    {
+      "title": "API-Tests finden Schnittstellenprobleme",
+      "description": "Ein Beispiel für API-Testing im RealWorld-Projekt.",
+      "body": "Dieser Artikel dient als Testdatenbasis für Artikellisten, Detailseiten und Filter.",
+      "slug": "api-tests-finden-schnittstellenprobleme",
+      "author": "alice",
+      "tags": [ "testing" ]
+    },
+    {
+      "title": "End-to-End-Tests prüfen den Nutzerfluss",
+      "description": "Login, Artikelerstellung und Anzeige als vollständiger Ablauf.",
+      "body": "Dieser Artikel ist ein Beispiel für zentrale Nutzerflüsse in der Anwendung.",
+      "slug": "end-to-end-tests-pruefen-den-nutzerfluss",
+      "author": "demo",
+      "tags": [ "angular", "testing" ]
+    }
+  ],
+  "follows": [
+    {
+      "observer": "demo",
+      "target": "alice"
+    }
+  ]
+}
