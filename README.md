@@ -29,7 +29,7 @@ Im Rahmen der Arbeit wurden insbesondere folgende Artefakte ergänzt bzw. angepa
 
 Die folgenden Dokumente ergänzen den Anhang der Arbeit:
 
-- [Testklassen und Risikomapping](docs/mapping-testfunktionen-qualitaetsrisiken.pdf)
+- [Testklassen und Risikomapping](docs/Test-report.viteTests.pdf)
 - [Backend-Testbericht](docs/backend-test-report.pdf)
 - [Playwright-E2E-Testbericht](docs/playwright-test-report.pdf)
 
